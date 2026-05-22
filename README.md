@@ -2,7 +2,8 @@
 
 locktime26 fork for IOS 8 yippy, NOTE: You need groovylock for this or lockhtml4, keep in mind only works on Ipad and its only tall font for now, 
 and landscape mode doesent work properly(if you rotate to portrait mode its missaligned)
-<img width="833" height="556" alt="image" src="https://github.com/user-attachments/assets/9d753ce5-70b3-45e3-8442-26ab822fa321" />
+<img width="1280" height="720" alt="5_22_2026 2_21_40 PM" src="https://github.com/user-attachments/assets/e68ebdf1-7211-4741-8bf2-0950664e190e" />
+
 
 
 
