@@ -9,7 +9,7 @@ and landscape mode doesent work properly(if you rotate to portrait mode its miss
 
 
 Tutorial
-get hideme8 tweak, go to lockscreen section and hide the clock, now once you downloaded it unzip the file, and get the folder outside of the folder, you need groovylock on cydia, and you need to move the files manually to var/mobile/library/groovylock, then go to settings and press groovylock, then once you see the menu press "locktimeios8" theme and boom cool lockscreen ey?
+get hideme8 tweak, go to lockscreen section and hide the clock, now once you downloaded the deb transfer it using the skeptical 3utools (delete it later) then download on to device,  you need groovylock on cydia, then go to settings and press groovylock, then once you see the menu press "locktimeios8" theme and boom cool lockscreen ey?
 (Planned Ideas)
 
 
